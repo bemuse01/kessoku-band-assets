@@ -1,0 +1,195 @@
+{
+    "head": {
+        "schema": {
+            "name": "string",
+            "tag": "array",
+            "type": "image|video"
+        }
+    },
+    "body": {
+        "tags": [
+            "bocchi",
+            "nijika",
+            "ryo",
+            "kita",
+            "kessoku band"
+        ],
+        "data": [
+            {
+                "name": "103260837_p0.png",
+                "tag": ["bocchi"],
+                "type": "image"
+            },
+            {
+                "name": "103365922_p0.png",
+                "tag": ["bocchi"],
+                "type": "image"
+            },
+            {
+                "name": "103391040_p0.jpg",
+                "tag": ["kessoku band"],
+                "type": "image"
+            },
+            {
+                "name": "103452146_p0.jpg",
+                "tag": ["bocchi"],
+                "type": "image"
+            },
+            {
+                "name": "103584845_p0.jpg",
+                "tag": ["bocchi"],
+                "type": "image"
+            },
+            {
+                "name": "103629485_p0.png",
+                "tag": ["bocchi"],
+                "type": "image"
+            },
+            {
+                "name": "103634346_p0.jpg",
+                "tag": ["bocchi"],
+                "type": "image"
+            },
+            {
+                "name": "103907445_p0.png",
+                "tag": ["bocchi"],
+                "type": "image"
+            },
+            {
+                "name": "104071133_p0.png",
+                "tag": ["bocchi"],
+                "type": "image"
+            },
+            {
+                "name": "104097910_p0.jpg",
+                "tag": ["bocchi"],
+                "type": "image"
+            },
+            {
+                "name": "104196796_p0.png",
+                "tag": ["ryo"],
+                "type": "image"
+            },
+            {
+                "name": "104202397_p0.png",
+                "tag": ["bocchi"],
+                "type": "image"
+            },
+            {
+                "name": "104286871_p0.jpg",
+                "tag": ["bocchi"],
+                "type": "image"
+            },
+            {
+                "name": "104341961_p0.jpg",
+                "tag": ["bocchi"],
+                "type": "image"
+            },
+            {
+                "name": "104439588_p1.jpg",
+                "tag": ["kessoku band"],
+                "type": "image"
+            },
+            {
+                "name": "104801302_p0.jpg",
+                "tag": ["bocchi"],
+                "type": "image"
+            },
+            {
+                "name": "104813758_p0.png",
+                "tag": ["nijika"],
+                "type": "image"
+            },
+            {
+                "name": "104862663_p0.jpg",
+                "tag": ["bocchi"],
+                "type": "image"
+            },
+            {
+                "name": "105105472_p0.jpg",
+                "tag": ["bocchi"],
+                "type": "image"
+            },
+            {
+                "name": "105182886_p0.png",
+                "tag": ["bocchi"],
+                "type": "image"
+            },
+            {
+                "name": "105706506_p0.png",
+                "tag": ["kita"],
+                "type": "image"
+            },
+            {
+                "name": "106383946_p0.jpg",
+                "tag": ["bocchi"],
+                "type": "image"
+            },
+            {
+                "name": "106542554_p0.png",
+                "tag": ["bocchi"],
+                "type": "image"
+            },
+            {
+                "name": "107268767_p0.png",
+                "tag": ["bocchi"],
+                "type": "image"
+            },
+            {
+                "name": "107821305_p0.jpg",
+                "tag": ["ryo"],
+                "type": "image"
+            },
+            {
+                "name": "108451122_p0.png",
+                "tag": ["bocchi"],
+                "type": "image"
+            },
+            {
+                "name": "108500055_p0.jpg",
+                "tag": ["bocchi"],
+                "type": "image"
+            },
+            {
+                "name": "108561934_p0.png",
+                "tag": ["kessoku band"],
+                "type": "image"
+            },
+            {
+                "name": "112201194_p0.png",
+                "tag": ["kessoku band"],
+                "type": "image"
+            },
+            {
+                "name": "116355875_p0.jpg",
+                "tag": ["bocchi"],
+                "type": "image"
+            },
+            {
+                "name": "120323288_p0.jpg",
+                "tag": ["bocchi"],
+                "type": "image"
+            },
+            {
+                "name": "120694493_p0.png",
+                "tag": ["bocchi"],
+                "type": "image"
+            },
+            {
+                "name": "122386453_p0.jpg",
+                "tag": ["bocchi"],
+                "type": "image"
+            },
+            {
+                "name": "122610278_p0.jpg",
+                "tag": ["nijika"],
+                "type": "image"
+            },
+            {
+                "name": "123580562_p0.jpg",
+                "tag": ["bocchi"],
+                "type": "image"
+            }
+        ]
+    }
+}
