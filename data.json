@@ -2,299 +2,186 @@
     "head": {
         "schema": {
             "name": "string",
-            "tag": "array",
-            "type": "image|video",
-            "url": "string"
+            "width": "number",
+            "height": "number"
         }
     },
     "body": {
-        "tags": [
-            "bocchi",
-            "nijika",
-            "ryo",
-            "kita",
-            "kessoku band"
-        ],
         "data": [
             {
                 "name": "103260837_p0.png",
-                "tag": [
-                    "bocchi"
-                ],
-                "type": "image",
-                "url": "https://raw.githubusercontent.com/bemuse01/kessoku-band-assets/refs/heads/master/assets/images/103260837_p0.png"
+                "width": 1158,
+                "height": 2080
             },
             {
                 "name": "103365922_p0.png",
-                "tag": [
-                    "bocchi"
-                ],
-                "type": "image",
-                "url": "https://raw.githubusercontent.com/bemuse01/kessoku-band-assets/refs/heads/master/assets/images/103365922_p0.png"
+                "width": 960,
+                "height": 540
             },
             {
                 "name": "103391040_p0.jpg",
-                "tag": [
-                    "kessoku band"
-                ],
-                "type": "image",
-                "url": "https://raw.githubusercontent.com/bemuse01/kessoku-band-assets/refs/heads/master/assets/images/103391040_p0.jpg"
+                "width": 3260,
+                "height": 1620
             },
             {
                 "name": "103452146_p0.jpg",
-                "tag": [
-                    "bocchi"
-                ],
-                "type": "image",
-                "url": "https://raw.githubusercontent.com/bemuse01/kessoku-band-assets/refs/heads/master/assets/images/103452146_p0.jpg"
+                "width": 1200,
+                "height": 2146
             },
             {
                 "name": "103584845_p0.jpg",
-                "tag": [
-                    "bocchi"
-                ],
-                "type": "image",
-                "url": "https://raw.githubusercontent.com/bemuse01/kessoku-band-assets/refs/heads/master/assets/images/103584845_p0.jpg"
+                "width": 1200,
+                "height": 1563
             },
             {
                 "name": "103629485_p0.png",
-                "tag": [
-                    "bocchi"
-                ],
-                "type": "image",
-                "url": "https://raw.githubusercontent.com/bemuse01/kessoku-band-assets/refs/heads/master/assets/images/103629485_p0.png"
+                "width": 900,
+                "height": 600
             },
             {
                 "name": "103634346_p0.jpg",
-                "tag": [
-                    "bocchi"
-                ],
-                "type": "image",
-                "url": "https://raw.githubusercontent.com/bemuse01/kessoku-band-assets/refs/heads/master/assets/images/103634346_p0.jpg"
+                "width": 893,
+                "height": 1500
             },
             {
                 "name": "103907445_p0.png",
-                "tag": [
-                    "bocchi"
-                ],
-                "type": "image",
-                "url": "https://raw.githubusercontent.com/bemuse01/kessoku-band-assets/refs/heads/master/assets/images/103907445_p0.png"
+                "width": 1610,
+                "height": 920
             },
             {
                 "name": "104071133_p0.png",
-                "tag": [
-                    "bocchi"
-                ],
-                "type": "image",
-                "url": "https://raw.githubusercontent.com/bemuse01/kessoku-band-assets/refs/heads/master/assets/images/104071133_p0.png"
+                "width": 1507,
+                "height": 2132
             },
             {
                 "name": "104097910_p0.jpg",
-                "tag": [
-                    "bocchi"
-                ],
-                "type": "image",
-                "url": "https://raw.githubusercontent.com/bemuse01/kessoku-band-assets/refs/heads/master/assets/images/104097910_p0.jpg"
+                "width": 991,
+                "height": 1289
             },
             {
                 "name": "104196796_p0.png",
-                "tag": [
-                    "ryo"
-                ],
-                "type": "image",
-                "url": "https://raw.githubusercontent.com/bemuse01/kessoku-band-assets/refs/heads/master/assets/images/104196796_p0.png"
+                "width": 600,
+                "height": 1080
             },
             {
                 "name": "104202397_p0.png",
-                "tag": [
-                    "bocchi"
-                ],
-                "type": "image",
-                "url": "https://raw.githubusercontent.com/bemuse01/kessoku-band-assets/refs/heads/master/assets/images/104202397_p0.png"
+                "width": 1152,
+                "height": 1837
             },
             {
                 "name": "104286871_p0.jpg",
-                "tag": [
-                    "bocchi"
-                ],
-                "type": "image",
-                "url": "https://raw.githubusercontent.com/bemuse01/kessoku-band-assets/refs/heads/master/assets/images/104286871_p0.jpg"
+                "width": 2480,
+                "height": 3508
             },
             {
                 "name": "104341961_p0.jpg",
-                "tag": [
-                    "bocchi"
-                ],
-                "type": "image",
-                "url": "https://raw.githubusercontent.com/bemuse01/kessoku-band-assets/refs/heads/master/assets/images/104341961_p0.jpg"
+                "width": 2249,
+                "height": 1319
             },
             {
                 "name": "104439588_p1.jpg",
-                "tag": [
-                    "kessoku band"
-                ],
-                "type": "image",
-                "url": "https://raw.githubusercontent.com/bemuse01/kessoku-band-assets/refs/heads/master/assets/images/104439588_p1.jpg"
+                "width": 1000,
+                "height": 2000
             },
             {
                 "name": "104801302_p0.jpg",
-                "tag": [
-                    "bocchi"
-                ],
-                "type": "image",
-                "url": "https://raw.githubusercontent.com/bemuse01/kessoku-band-assets/refs/heads/master/assets/images/104801302_p0.jpg"
+                "width": 567,
+                "height": 680
             },
             {
                 "name": "104813758_p0.png",
-                "tag": [
-                    "nijika"
-                ],
-                "type": "image",
-                "url": "https://raw.githubusercontent.com/bemuse01/kessoku-band-assets/refs/heads/master/assets/images/104813758_p0.png"
+                "width": 607,
+                "height": 1028
             },
             {
                 "name": "104862663_p0.jpg",
-                "tag": [
-                    "bocchi"
-                ],
-                "type": "image",
-                "url": "https://raw.githubusercontent.com/bemuse01/kessoku-band-assets/refs/heads/master/assets/images/104862663_p0.jpg"
+                "width": 1500,
+                "height": 2000
             },
             {
                 "name": "105105472_p0.jpg",
-                "tag": [
-                    "bocchi"
-                ],
-                "type": "image",
-                "url": "https://raw.githubusercontent.com/bemuse01/kessoku-band-assets/refs/heads/master/assets/images/105105472_p0.jpg"
+                "width": 1476,
+                "height": 1900
             },
             {
                 "name": "105182886_p0.png",
-                "tag": [
-                    "bocchi"
-                ],
-                "type": "image",
-                "url": "https://raw.githubusercontent.com/bemuse01/kessoku-band-assets/refs/heads/master/assets/images/105182886_p0.png"
+                "width": 487,
+                "height": 809
             },
             {
                 "name": "105706506_p0.png",
-                "tag": [
-                    "kita"
-                ],
-                "type": "image",
-                "url": "https://raw.githubusercontent.com/bemuse01/kessoku-band-assets/refs/heads/master/assets/images/105706506_p0.png"
+                "width": 634,
+                "height": 1079
             },
             {
                 "name": "106383946_p0.jpg",
-                "tag": [
-                    "bocchi"
-                ],
-                "type": "image",
-                "url": "https://raw.githubusercontent.com/bemuse01/kessoku-band-assets/refs/heads/master/assets/images/106383946_p0.jpg"
+                "width": 801,
+                "height": 1200
             },
             {
                 "name": "106542554_p0.png",
-                "tag": [
-                    "bocchi"
-                ],
-                "type": "image",
-                "url": "https://raw.githubusercontent.com/bemuse01/kessoku-band-assets/refs/heads/master/assets/images/106542554_p0.png"
+                "width": 1000,
+                "height": 1415
             },
             {
                 "name": "107268767_p0.png",
-                "tag": [
-                    "bocchi"
-                ],
-                "type": "image",
-                "url": "https://raw.githubusercontent.com/bemuse01/kessoku-band-assets/refs/heads/master/assets/images/107268767_p0.png"
+                "width": 1181,
+                "height": 1905
             },
             {
                 "name": "107821305_p0.jpg",
-                "tag": [
-                    "ryo"
-                ],
-                "type": "image",
-                "url": "https://raw.githubusercontent.com/bemuse01/kessoku-band-assets/refs/heads/master/assets/images/107821305_p0.jpg"
+                "width": 1250,
+                "height": 1500
             },
             {
                 "name": "108451122_p0.png",
-                "tag": [
-                    "bocchi"
-                ],
-                "type": "image",
-                "url": "https://raw.githubusercontent.com/bemuse01/kessoku-band-assets/refs/heads/master/assets/images/108451122_p0.png"
+                "width": 833,
+                "height": 1333
             },
             {
                 "name": "108500055_p0.jpg",
-                "tag": [
-                    "bocchi"
-                ],
-                "type": "image",
-                "url": "https://raw.githubusercontent.com/bemuse01/kessoku-band-assets/refs/heads/master/assets/images/108500055_p0.jpg"
+                "width": 1920,
+                "height": 1080
             },
             {
                 "name": "108561934_p0.png",
-                "tag": [
-                    "kessoku band"
-                ],
-                "type": "image",
-                "url": "https://raw.githubusercontent.com/bemuse01/kessoku-band-assets/refs/heads/master/assets/images/108561934_p0.png"
+                "width": 1278,
+                "height": 719
             },
             {
                 "name": "112201194_p0.png",
-                "tag": [
-                    "kessoku band"
-                ],
-                "type": "image",
-                "url": "https://raw.githubusercontent.com/bemuse01/kessoku-band-assets/refs/heads/master/assets/images/112201194_p0.png"
+                "width": 1920,
+                "height": 1080
             },
             {
                 "name": "116355875_p0.jpg",
-                "tag": [
-                    "bocchi"
-                ],
-                "type": "image",
-                "url": "https://raw.githubusercontent.com/bemuse01/kessoku-band-assets/refs/heads/master/assets/images/116355875_p0.jpg"
+                "width": 1061,
+                "height": 1500
             },
             {
                 "name": "120323288_p0.jpg",
-                "tag": [
-                    "bocchi"
-                ],
-                "type": "image",
-                "url": "https://raw.githubusercontent.com/bemuse01/kessoku-band-assets/refs/heads/master/assets/images/120323288_p0.jpg"
+                "width": 1179,
+                "height": 2149
             },
             {
                 "name": "120694493_p0.png",
-                "tag": [
-                    "bocchi"
-                ],
-                "type": "image",
-                "url": "https://raw.githubusercontent.com/bemuse01/kessoku-band-assets/refs/heads/master/assets/images/120694493_p0.png"
+                "width": 1240,
+                "height": 1754
             },
             {
                 "name": "122386453_p0.jpg",
-                "tag": [
-                    "bocchi"
-                ],
-                "type": "image",
-                "url": "https://raw.githubusercontent.com/bemuse01/kessoku-band-assets/refs/heads/master/assets/images/122386453_p0.jpg"
+                "width": 1240,
+                "height": 1754
             },
             {
                 "name": "122610278_p0.jpg",
-                "tag": [
-                    "nijika"
-                ],
-                "type": "image",
-                "url": "https://raw.githubusercontent.com/bemuse01/kessoku-band-assets/refs/heads/master/assets/images/122610278_p0.jpg"
+                "width": 1017,
+                "height": 1819
             },
             {
                 "name": "123580562_p0.jpg",
-                "tag": [
-                    "bocchi"
-                ],
-                "type": "image",
-                "url": "https://raw.githubusercontent.com/bemuse01/kessoku-band-assets/refs/heads/master/assets/images/123580562_p0.jpg"
+                "width": 1240,
+                "height": 1754
             }
         ]
     }
