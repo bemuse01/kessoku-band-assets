@@ -47,7 +47,7 @@ def init():
         }
     }
 
-    body_data = create_data(files);
+    body_data = create_data(files)
 
     json_data['body']['data'] = body_data
 
